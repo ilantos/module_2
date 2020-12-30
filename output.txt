@@ -1,0 +1,1 @@
+7365.0 milliseconds was a user session
